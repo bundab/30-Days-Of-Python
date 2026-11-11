@@ -38,3 +38,13 @@ print('Last name: ', last_name)
 print('Country: ', country)
 print('Age: ', age)
 print('Married: ', is_married)
+
+
+# My Practice on Python Varables
+
+number = 30
+
+abs_number = abs(number)
+print('Absolute value of number:', abs_number, '\n')
+
+print(min(3,5,6,1,7))
